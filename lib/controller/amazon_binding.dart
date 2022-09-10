@@ -10,6 +10,8 @@ class AmazonBinding extends Bindings {
 
     Get.put(CounterController());
 
+    //change code
+
 
 
   }
