@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946208570805",
+    "project_id": "fir-cc4c7",
+    "storage_bucket": "fir-cc4c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946208570805:android:d0945c0d8f59a11faf2dfc",
+        "android_client_info": {
+          "package_name": "com.navin.amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946208570805-fo3tmrmk5h44ksdj5n4cf5sooppjjjk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4xQF0d31egXLmh90OwvGaw9Nz0qo0NJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946208570805-fo3tmrmk5h44ksdj5n4cf5sooppjjjk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
